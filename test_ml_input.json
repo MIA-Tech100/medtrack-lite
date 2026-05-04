@@ -1,0 +1,11 @@
+{
+  "drugs": [
+    {"id": 1, "name": "Tetanus", "quantity": 205, "price": 120.0, "exp_date": "2026-06-01"},
+    {"id": 2, "name": "ucerine", "quantity": 2, "price": 50.0, "exp_date": "2026-01-25"}
+  ],
+  "sales": [
+    {"drug_id": 1, "qty": 5, "staff": "alice", "revenue": 600, "sold_at": "2026-01-15"},
+    {"drug_id": 1, "qty": 3, "staff": "alice", "revenue": 360, "sold_at": "2026-01-20"},
+    {"drug_id": 2, "qty": 1, "staff": "bob", "revenue": 50, "sold_at": "2026-01-10"}
+  ]
+}
