@@ -80,10 +80,6 @@ MedTrack Lite is a web-based pharmacy management system enhanced with Artificial
 * 100% pass rate
 * System verified for functionality, security, and performance
 
-## Documentation
-
-Full project documentation is available in the `/documentation` folder.
-
 ## Author
 
 **Mohamed Ibrahim Adan Kunu**
