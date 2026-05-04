@@ -66,7 +66,7 @@ MedTrack Lite is a web-based pharmacy management system enhanced with Artificial
 * **Admin:** Full system control (manage users, drugs, reports, analytics)
 * **Staff:** Process sales, view inventory, track performance
 
-## 📊System Modules
+## System Modules
 
 * Inventory Management
 * Sales Processing
